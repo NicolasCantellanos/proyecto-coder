@@ -110,3 +110,17 @@ pre {
   width: 64px;
   height: 64px;
 }
+
+.historia {
+  text-align: center;
+  color: black;
+}
+
+.tituloHistoria {
+  text-decoration: underline;
+  margin: 25px;
+}
+
+.estiloHistoria {
+  text-indent: 20px;
+}
