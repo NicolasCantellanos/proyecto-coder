@@ -82,3 +82,26 @@
   padding-bottom: 50px;
 }
 /*TERMINA FOOTER*/
+
+/*PAGINA DE CONTACTO */
+.formulario {
+  margin: 50px auto;
+}
+
+.btn {
+  background-color: lightslategray;
+}
+
+/*TERMINA PAGINA DE CONTACTO*/
+
+/*PAGINA LETRA Y ACORDES*/
+
+pre {
+  margin: 50px auto;
+}
+
+.acordes {
+  display: flex;
+  width: 64px;
+  height: 64px;
+}
