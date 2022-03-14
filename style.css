@@ -73,4 +73,12 @@
   color: white;
 }
 
+.text-center p-3 {
+  background-color: black;
+}
+
+.copyright {
+  color: white;
+  padding-bottom: 50px;
+}
 /*TERMINA FOOTER*/
